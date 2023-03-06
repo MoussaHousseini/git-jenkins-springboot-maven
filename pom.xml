@@ -14,7 +14,7 @@
 	<name>git-jenkins-springboot-maven</name>
 	<description>Demo project for Spring Boot Git Jenkins</description>
 	<properties>
-		<java.version>11.0.18</java.version>
+		<java.version>3.10.1</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

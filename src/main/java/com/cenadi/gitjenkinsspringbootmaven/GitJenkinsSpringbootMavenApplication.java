@@ -9,6 +9,9 @@ public class GitJenkinsSpringbootMavenApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GitJenkinsSpringbootMavenApplication.class, args);
 		System.out.println("Hello World");
+                System.out.println("Hello Cameroun");
+
 	}
+
 
 }

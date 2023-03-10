@@ -10,6 +10,7 @@ public class GitJenkinsSpringbootMavenApplication {
 		SpringApplication.run(GitJenkinsSpringbootMavenApplication.class, args);
 		System.out.println("Hello World");
                 System.out.println("Hello Cameroun");
+                System.out.println("Welcome To Douala");
 
 	}
 
